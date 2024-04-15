@@ -18,3 +18,5 @@ This project can be done on Arduino software
 +Buzzer     
 +Oled 0.96 inch I2C 
 ## Prototype schematic
+![Circuit](https://github.com/HourseNguyen/monitoring_air_quality/assets/135302509/c35d3406-2e7b-4b94-a89d-fa0232eadddc)
+
