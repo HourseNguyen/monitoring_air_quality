@@ -17,6 +17,6 @@ This project can be done on Arduino software
 +PM2.5 (Sharp GP2Y1014AU0F)(include Capacitance : 220microfara and Resistance 150 ohm)    
 +Buzzer     
 +Oled 0.96 inch I2C 
-## Prototype schematic
+## 🚀 Prototype schematic
 ![Circuit](https://github.com/HourseNguyen/monitoring_air_quality/assets/135302509/c35d3406-2e7b-4b94-a89d-fa0232eadddc)
 
