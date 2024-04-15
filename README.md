@@ -12,9 +12,9 @@ Although the quality of outdoor air can give us some insight into environmental 
 ## 📦 Installation 
 This project can be done on Arduino software
 ## 🪓 Material needed
-+Node MCU ESP32
-+CO sensor(MQ-7)
-+PM2.5 (Sharp GP2Y1014AU0F)(include Capacitance : 220microfara and Resistance 150 ohm)
-+Buzzer 
-+Oled 0.96 inch I2C
++Node MCU ESP32 
++CO sensor(MQ-7) 
++PM2.5 (Sharp GP2Y1014AU0F)(include Capacitance : 220microfara and Resistance 150 ohm) 
++Buzzer  
++Oled 0.96 inch I2C 
 ## Prototype schematic
